@@ -1,6 +1,6 @@
 {
   "name": "laraflo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rapidly scaffold beautiful Tailwind apps!",
   "main": "index.js",
   "bin": {
